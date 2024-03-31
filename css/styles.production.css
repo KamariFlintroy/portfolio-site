@@ -39,7 +39,7 @@ h3  {
 }
 
 a {
-    color: #357b70;
+    color: #275b53;
 }
 
 a:visited {
@@ -161,7 +161,7 @@ button:hover, button:focus {
     }
 
     .grid__item {
-        background-color: #d3d3d3;
+        background-color: #dcdcdc;
         width: auto;
         min-height: auto;
         margin: 0;
